@@ -1,5 +1,5 @@
 (() => {
-  const numbers = [1,2,4,5,6,7,1, '13']; // number[]
+  const numbers = [1,2,4,5,6,7,1, '13']; // (string | number)[]
   const types = [1,2,3,'4',true]; // (string | number | boolean)[]
 
   // prices.push('123'); // Error
